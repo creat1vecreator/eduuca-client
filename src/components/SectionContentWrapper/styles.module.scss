@@ -1,0 +1,9 @@
+.SectionContentWrapper {
+  padding: 16px;
+  position: relative;
+  width: 100%;
+  height: calc(100% - 35px);
+  background: $color-white;
+  outline: 1px solid $color-blue;
+  border-radius: 8px;
+}

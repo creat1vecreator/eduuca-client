@@ -1,0 +1,10 @@
+.UITag {
+  border-radius: 8px;
+  padding: 3px 4px;
+
+  &__text {
+    font-weight: $font-weight-light;
+    font-size: $font-size-12;
+    line-height: $line-height-13;
+  }
+}
